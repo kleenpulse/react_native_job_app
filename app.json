@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react_native_app",
+    "slug": "react_native_app",
+    "description": "Job Explorer",
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7782f538-a2ed-4662-8558-c767bb699325"
+      }
+    }
+  }
+}
